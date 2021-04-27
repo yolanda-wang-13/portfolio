@@ -1,7 +1,7 @@
 # Yolanda Wang
 
 ## Education
-- University of New South Wales (UNSW)
+University of New South Wales (UNSW)
 - Bachelor of Commerce and Information Systems
 Major in Marketing and Business information systems
 
