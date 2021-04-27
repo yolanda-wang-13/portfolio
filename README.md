@@ -5,8 +5,8 @@ University of New South Wales (UNSW)
 - Bachelor of Commerce and Information Systems
 Major in Marketing and Business information systems
 
-## Talents
-- Design
+## Skills
+- User Experience Design
 - Business Analytics
 - 
 
